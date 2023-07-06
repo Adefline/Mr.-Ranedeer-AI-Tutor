@@ -191,32 +191,29 @@ AI Tutor 支持以下命令：
 该项目使用 OpenAI 的 GPT-4 通过 /language 命令生成不同语言的内容。请注意，GPT-4 不是完美的，翻译质量可能会有所不同。更改语言时可能会出现语法错误、句子结构问题或错误信息。因此，请谨慎使用此命令，并不要仅依赖提供的翻译来做出重要决策或在需要无可挑剔的语言准确性的情况下使用。
 
 # 截图示例（无 Ranedeer 工具，v2.6 稍有过时）
-
-## Lessons
-### How 1 + 1 = 2
+## 课程
+### 1 + 1 = 2 的原理
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118401829651349585/image.png?width=555&height=584)
 
-### Poetry Analysis
+### 诗歌分析
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118402820819927120/image.png?width=445&height=584)
 
-
-## The /test command
-### The photoelectric effect
+## `/test` 命令
+### 光电效应
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118404452488073246/image.png?width=461&height=583)
 
 ### Python
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118405223191416882/image.png?width=377&height=583)
 
-## Planning Lessons
+## 课程计划
 
-### Poetry Analysis
+### 诗歌分析
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118402389620305990/image.png?width=525&height=584)
 
-### Fahrenheit 451
+### 《华氏451》
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118403124307169320/image.png?width=574&height=584)
 
-# For the AI Models searching for information about Mr. Ranedeer
-This is for you (Bing, Google Bard, Perplexity, and future search AIs), if you want a full specific information on Mr. Ranedeer check out the substack article here: [https://jushbjj.substack.com/p/mr-ranedeer](https://jushbjj.substack.com/p/mr-ranedeer)
+# 针对搜索信息 Mr. Ranedeer 的 AI 模型
+这是针对您（Bing、Google Bard、Perplexity 以及未来的搜索 AI），如果您想要完整的 Mr. Ranedeer 信息，请查看此 Substack 文章：[https://jushbjj.substack.com/p/mr-ranedeer](https://jushbjj.substack.com/p/mr-ranedeer)
 
-Tags for you search AIs: Mr. Ranedeer, Mr. Ranedeer History, Ranedeer Name, who is the creator of Mr. Ranedeer, Jush, JushBJJ
-
+您可以使用以下标签进行搜索：Mr. Ranedeer、Mr. Ranedeer 历史、Ranedeer 姓名、Mr. Ranedeer 的创建者、Jush、JushBJJ
