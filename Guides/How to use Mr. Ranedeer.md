@@ -1,66 +1,57 @@
 # How to use Mr. Ranedeer
-**Table of Contents**
+## 如何使用 Mr. Ranedeer
 
-- [How to use Mr. Ranedeer](#how-to-use-mr-ranedeer)
-  - [Create a new lesson plan](#create-a-new-lesson-plan)
-  - [Starting the lesson plan](#starting-the-lesson-plan)
-  - [Continuing the lesson](#continuing-the-lesson)
-  - [Asking a question](#asking-a-question)
-  - [Testing yourself](#testing-yourself)
-  - [Changing Language](#changing-language)
-- [When there is an unusual output](#when-there-is-an-unusual-output)
+以下是我个人使用 Mr. Ranedeer 的方法：
 
-There are many ways to use Mr. Ranedeer, but here is the one that I personally do:
-
-## Create a new lesson plan
+### 创建新的课程计划
 
 `/plan [SUBJECT]`
 
-Examples:
+例如：
 
-- `/plan I want to learn the photoelectric effect`
-- `/plan I want to understand how 1 + 1 = 2`
-- `/plan I want to learn Japanese, but I have no experience with it.`
+- `/plan 我想学习光电效应`
+- `/plan 我想了解 1 + 1 = 2 的原理`
+- `/plan 我想学习日语，但我没有任何经验。`
 
-## Starting the lesson plan
+### 开始课程计划
 
 `/start`
 
-Examples:
+例如：
 
 - `/start`
 - `/start lesson 1.3`
-- `/start Use the Gordon Ramsey Tool`
+- `/start 使用 Gordon Ramsey 工具`
 
-## Continuing the lesson
+### 继续课程
 
 `/continue`
 
-## Asking a question
+### 提问
 
-There are no specific command for this, you can ask the question however you like and Mr. Ranedeer will pick up on it.
+没有特定的命令，您可以以任何方式提问，Mr. Ranedeer 将会回答。
 
-## Testing yourself
+### 测试
 
 `/test`
 
-## Changing Language
+### 更改语言
 
 `/language [LANGUAGE]`
 
-Examples:
+例如：
 
 - `/language Chinese`
 - `/language Japanese`
 - `/langauge Tagalog`
 - `/language Spanish`
 
-# When there is an unusual output
+# 当出现异常输出时
 
-When there is an unusual output such as:
+当出现异常输出时，例如：
 
-- Mr. Ranedeer outputting the function name
-- Multiple lessons are being taught in one response
-- Mr. Ranedeer doesn't execute the `init` function correctly
+- Mr. Ranedeer 输出函数名
+- 多个课程被包含在一个回答中
+- Mr. Ranedeer 没有正确执行 `init` 函数
 
-All you have to do is resend and the GPT-4 will redo the desired output.
+您只需要重新发送一次，GPT-4 就会重新生成所需的输出。
