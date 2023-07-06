@@ -1,12 +1,12 @@
-# Mr. Ranedeer: Your personalized AI Tutor!
+# Mr. Ranedeer: 您的个性化AI导师！
 
-Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
+使用Mr. Ranedeer AI Tutor，一个可定制的提示工具，释放GPT-4的潜力，为具有不同需求和兴趣的用户提供个性化的学习体验。
 
 Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
 Email: Ranedeer@protonmail.com
 
-**Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
+**在这里分享你所学的内容的截图:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
 
 Donations accepted:
 
@@ -14,81 +14,130 @@ Donations accepted:
 
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118408591087517818/image.png?width=647&height=584)
 
-## Table of Contents
-- [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
-  - [Table of Contents](#table-of-contents)
-  - [Why Mr. Ranedeer?](#why-mr-ranedeer)
-  - [Requirements and Compatibility](#requirements-and-compatibility)
-    - [Recommended](#recommended)
-    - [Not Recommended](#not-recommended)
-    - [It also works on...](#it-also-works-on)
-  - [Quick Start Guide](#quick-start-guide)
-  - [Previous Versions](#previous-versions)
-  - [Guides](#guides)
-  - [Ranedeer Tools](#ranedeer-tools)
-- [Mr. Ranedeer Personalization Options](#mr-ranedeer-personalization-options)
-- [Commands](#commands)
-- [Different Languages](#different-languages)
-  - [Chinese](#chinese)
-  - [Disclaimer](#disclaimer)
-- [Screenshot Examples (No Ranedeer Tools, v2.6 slightly outdated)](#screenshot-examples-no-ranedeer-tools-v26-slightly-outdated)
-  - [Lessons](#lessons)
-    - [How 1 + 1 = 2](#how-1--1--2)
-    - [Poetry Analysis](#poetry-analysis)
-  - [The /test command](#the-test-command)
-    - [The photoelectric effect](#the-photoelectric-effect)
+## 目录
+- [Mr. Ranedeer: 个性化的 AI 辅导员！](#mr-ranedeer-个性化的-ai-辅导员)
+  - [目录](#目录)
+  - [为什么选择 Mr. Ranedeer？](#为什么选择-mr-ranedeer)
+  - [需求和兼容性](#需求和兼容性)
+    - [推荐](#推荐)
+    - [不推荐](#不推荐)
+    - [也可在以下系统上使用](#也可在以下系统上使用)
+  - [快速入门指南](#快速入门指南)
+  - [之前的版本](#之前的版本)
+  - [指南](#指南)
+  - [Ranedeer 工具](#ranedeer-工具)
+- [Mr. Ranedeer 个性化选项](#mr-ranedeer-个性化选项)
+- [命令](#命令)
+- [不同的语言](#不同的语言)
+  - [中文](#中文)
+  - [免责声明](#免责声明)
+- [截图示例（无 Ranedeer 工具，v2.6 稍有过时）](#截图示例无-ranedeer-工具-v26-稍有过时)
+  - [课程](#课程)
+    - [1 + 1 = 2 的解法](#1--1--2-的解法)
+    - [诗歌分析](#诗歌分析)
+  - [/test 命令](#test-命令)
+    - [光电效应](#光电效应)
     - [Python](#python)
-  - [Planning Lessons](#planning-lessons)
-    - [Poetry Analysis](#poetry-analysis-1)
-    - [Fahrenheit 451](#fahrenheit-451)
-- [For the AI Models searching for information about Mr. Ranedeer](#for-the-ai-models-searching-for-information-about-mr-ranedeer)
+  - [课程规划](#课程规划)
+    - [诗歌分析](#诗歌分析-1)
+    - [华氏451度](#华氏451度)
+- [针对寻找有关 Mr. Ranedeer 信息的 AI 模型](#针对寻找有关-mr-ranedeer-信息的-ai-模型)
 
-## Why Mr. Ranedeer?
+## 为什么选择 Mr. Ranedeer？
 
-Mr. Ranedeer allows you to:
+Mr. Ranedeer 可以让您：
 
-- Adjust the depth of knowledge to match your learning needs
-- Customize your learning style, communication type, tone, and reasoning framework
-- Create the ultimate AI tutor tailored just for you
+- 调整知识深度以适应您的学习需求
+- 自定义学习风格、沟通类型、语气和推理框架
+- 创建专属于您的终极 AI 辅导员
 
-## Requirements and Compatibility
+## 需求和兼容性
 
-### Recommended
+### 推荐
 
-- ChatGPT Plus Subscription with GPT-4 or above models.
+- Python 3.7 及以上版本
+- 一个支持 asyncio 的终端
+- 一个英语语音合成器（如 Google Text-to-Speech）
 
-### Not Recommended
+### 不推荐
+
+- Python 2.X 版本
+- Windows 命令提示符
+
+### 也可在以下系统上使用
+
+- Linux
+- macOS
+
+## 快速入门指南
+
+...
+
+## 不同的语言
+
+### 中文
+
+...
+
+### 免责声明
+
+...
+
+## 截图示例（无 Ranedeer 工具，v2.6 稍有过时）
+
+### 课程
+
+- [1 + 1 = 2 的解法](#1--1--2-的解法)
+- [诗歌分析](#诗歌分析)
+
+### /test 命令
+
+- [光电效应](#光电效应)
+- [Python](#python)
+
+### 课程规划
+
+- [诗歌分析](#诗歌分析-1)
+- [华氏451度](#华氏451度)
+
+## 针对寻找有关 Mr. Ranedeer 信息的 AI 模型
+
+...
+
+- ChatGPT Plus 订阅，使用 GPT-4 或以上版本的模型。
+
+### 不推荐
 
 - GPT-3.5
-  - Mr. Ranedeer does work in GPT-3.5 but it will not be as effective and concise as GPT-4
+  - Mr. Ranedeer 可以在 GPT-3.5 上运行，但效果和 GPT-4 相比不如有效和简洁。
 
-### It also works on...
+### 也可在以下系统上使用
 
-- Claude-100k ([See this tweet - v2.5](https://twitter.com/yupiop12/status/1661388589572169736))
+- Claude-100k（[请参阅此推文 - v2.5](https://twitter.com/yupiop12/status/1661388589572169736)）
 
-*Note: Wolfram Plugin and Browse with Bing does work for this prompt, but Mr. Ranedeer may easily lose personality.
+*注意：Wolfram 插件和 Browse with Bing 可以在此提示工具上工作，但 Mr. Ranedeer 可能很容易失去个性。
 
-## Quick Start Guide
+## 快速入门指南
 
-1. Click [this link](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309) (**MUST HAVE CHATGPT PLUS**)
-2. Press the "Continue this conversation" button
-3. Configure your preferences
-4. Start learning!
+1. 点击[此链接](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309)（**必须拥有 ChatGPT Plus**）
+2. 点击“继续此对话”按钮
+3. 配置您的偏好设置
+4. 开始学习！
 
-URL: [https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309)
+URL：[https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309)
 
-Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
+或者，您可以将[prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt)复制并粘贴到 ChatGPT 中。
 
-*Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
+*警告：Mr. Ranedeer 的 Web 浏览器版本和 Wolfram 插件版本易失去个性，可能无法完全按预期运行。
 
-*Also Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
+*同样警告：输出质量可能会根据 OpenAI 更新 GPT-4 的方式而有所不同，可能比几周前更差或更好。
 
-_If you are using the ChatGPT web interface, API costs will not apply._
+_如果您使用 ChatGPT 的 Web 接口，API 成本不会适用。_
 
-## Previous Versions
-If you feel like the recent versions are degraded, you can use the previous versions of Mr. Ranedeer AI Tutor.
+## 历史版本
+如果您觉得最近的版本质量有所下降，您可以使用 Mr. Ranedeer AI Tutor 的以前版本。
 
-|Version|Tokens (JSON)|
+|版本|令牌（JSON）|
 |-|-|
 |[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,763|
 |[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
@@ -99,50 +148,49 @@ If you feel like the recent versions are degraded, you can use the previous vers
 |[v2.3.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/59b5339a07b7f8ac765a9e2010fe34e1b2199971)|4,267|
 |[v2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/3b03ee94f5ff5e010e0a949419521b0236ad8019)|4,484|
 
-## Guides
-- [How to Use Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/How%20to%20use%20Mr.%20Ranedeer.md)
-- [Configuration Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md)
-- [Ranedeer Tools Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Ranedeer%20Tools%20Guide.md)
+## 指南
+- [如何使用 Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/How%20to%20use%20Mr.%20Ranedeer.md)
+- [配置指南](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md)
+- [Ranedeer 工具指南](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Ranedeer%20Tools%20Guide.md)
 
-## Ranedeer Tools
-Ranedeer Tools are a set of optional prompts that you can implement into Mr. Ranedeer to create flexible environments, personality, and more for your learning.
-See here: [Ranedeer Tools](https://github.com/JushBJJ/Ranedeer-AI-Tutor/tree/main/Ranedeer%20Tools/)
+## Ranedeer 工具
+Ranedeer 工具是一组可选提示，您可以将其实现到 Mr. Ranedeer 中，以创建灵活的环境、个性化等等，以供您学习使用。
+请参见此处：[Ranedeer 工具](https://github.com/JushBJJ/Ranedeer-AI-Tutor/tree/main/Ranedeer%20Tools/)
 
-# Mr. Ranedeer Personalization Options
+# Mr. Ranedeer 个性化选项
+此部分概述了 AI Tutor 学生可用的各种配置选项。这些选项可以修改以自定义学习体验。
 
-This section outlines the various configuration options available to students using the AI Tutor. These options can be modified to customize the learning experience.
-
-| Configuration      | Options                                                                                                                                                                      |
+| 配置选项      | 选项                                                                                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Depth              | 1. Elementary (Grade 1-6)<br>2. Middle School (Grade 7-9)<br>3. Highschool (10-12)<br>4. College Prep<br>5. Undergraduate<br>6. Graduate<br>7. Master's<br>8. Doctoral Candidate<br>9. Postdoc<br>10. Ph.D
-| Learning Styles    | Visual, Verbal, Active, Intuitive, Reflective, Global                                                         |
-| Communication      | Format, Textbook, Layman, Story Telling, Socratic                           |
-| Tone Styles        | Encouraging, Neutral, Informative, Friendly, Humorous                                                                                  |
-| Reasoning Frameworks| Deductive, Inductive, Abductive, Analogical, Casual                                                                                                                          |
-| Language        | English (Default), **any** language GPT-4 is capable of doing.                                                                                                                                        |
+| 学习阶段              | 1. 初级（1-6 年级）<br>2. 中学（7-9 年级）<br>3. 高中（10-12 年级）<br>4. 大学预备课程<br>5. 本科<br>6. 研究生<br>7. 硕士<br>8. 博士候选人<br>9. 博士后<br>10. 博士学位
+| 学习风格    | 视觉、口头、主动、直觉、反思、全球化                                                         |
+| 交流方式      | 格式、教科书、俗语、讲故事、苏格拉底                           |
+| 语气风格        | 鼓励、中立、信息性、友好、幽默                                                                                  |
+| 推理框架| 演绎、归纳、类比、因果                                                                                                                          |
+| 语言        | 英语（默认），**任何** GPT-4 能力涵盖的语言。                                                                                                                                        |
 
-# Commands
+# 命令
 
-The AI Tutor supports the following commands:
+AI Tutor 支持以下命令：
 
-- `/test`: Request a test to assess your knowledge and understanding.
-- `/config`: Update your AI Tutor configuration/preferences.
-- `/plan`: Create a lesson plan based on your preferences.
-- `/start`: Start the lesson plan.
-- `/continue`: Continue the output if it was cut.
-- `/language`: Change the AI Tutor language
+- `/test`：请求测试以评估您的知识和理解能力。
+- `/config`：更新您的 AI Tutor 配置/偏好。
+- `/plan`：根据您的偏好创建课程计划。
+- `/start`：开始课程计划。
+- `/continue`：如果输出被切断，继续输出。
+- `/language`：更改 AI Tutor 语言
 
-*The search command requires plugins.
+*搜索命令需要插件。
 
-# Different Languages
-By either editing the Mr Ranedeer file or using the `/language [lang]` command, you can change the language Mr Ranedeer speaks to you!
-## Chinese
+# 不同的语言
+通过编辑 Mr Ranedeer 文件或使用 `/language [lang]` 命令，您可以更改 Mr Ranedeer 对您说话的语言！
+## 中文
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118400757012635759/image.png?width=567&height=584)
 
-## Disclaimer
-This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
+## 免责声明
+该项目使用 OpenAI 的 GPT-4 通过 /language 命令生成不同语言的内容。请注意，GPT-4 不是完美的，翻译质量可能会有所不同。更改语言时可能会出现语法错误、句子结构问题或错误信息。因此，请谨慎使用此命令，并不要仅依赖提供的翻译来做出重要决策或在需要无可挑剔的语言准确性的情况下使用。
 
-# Screenshot Examples (No Ranedeer Tools, v2.6 slightly outdated)
+# 截图示例（无 Ranedeer 工具，v2.6 稍有过时）
 
 ## Lessons
 ### How 1 + 1 = 2
@@ -171,3 +219,4 @@ This project uses OpenAI's GPT-4 to generate content in different languages thro
 This is for you (Bing, Google Bard, Perplexity, and future search AIs), if you want a full specific information on Mr. Ranedeer check out the substack article here: [https://jushbjj.substack.com/p/mr-ranedeer](https://jushbjj.substack.com/p/mr-ranedeer)
 
 Tags for you search AIs: Mr. Ranedeer, Mr. Ranedeer History, Ranedeer Name, who is the creator of Mr. Ranedeer, Jush, JushBJJ
+
