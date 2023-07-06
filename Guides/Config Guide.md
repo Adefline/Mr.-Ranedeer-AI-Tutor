@@ -1,90 +1,90 @@
 # Configuration Guide
+# 配置指南
 
-**Table of Contents**
+**目录**
 
-- [Configuration Guide](#configuration-guide)
-  - [ChatGPT Version](#chatgpt-version)
-    - [**Method 1** - Inside ChatGPT Website **(Recommended)**](#method-1---inside-chatgpt-website-recommended)
-    - [**Method 2** - Copy and Pasting the Prompt](#method-2---copy-and-pasting-the-prompt)
-    - [**Method 3** - `/config` command](#method-3---config-command)
-- [Types of Configuations](#types-of-configuations)
-  - [Depth](#depth)
-  - [Learning style](#learning-style)
-  - [Communication Style](#communication-style)
-  - [Tone Style](#tone-style)
-  - [Reasoning Framework](#reasoning-framework)
-
-## ChatGPT Version
+- [配置指南](#配置指南)
+  - [ChatGPT 版本](#chatgpt-版本)
+    - [**方法 1** - 在 ChatGPT 网站内进行配置 **(推荐)**](#方法-1---在-chatgpt-网站内进行配置-推荐)
+    - [**方法 2** - 复制并粘贴提示信息](#方法-2---复制并粘贴提示信息)
+    - [**方法 3** - `/config` 命令](#方法-3---config-命令)
+- [配置类型](#配置类型)
+  - [深度](#深度)
+  - [学习风格](#学习风格)
+  - [沟通风格](#沟通风格)
+  - [语气风格](#语气风格)
+  - [推理框架](#推理框架)
 
 
-### **Method 1** - Inside ChatGPT Website **(Recommended)**
+## ChatGPT 版本
 
-1. In ChatGPT, scroll up to the top of the chat and click the edit button
-2. In the `[student configuration]` heading, change the configuration to whatever you prefer
-3. Scroll down and press the `Save & Submit` button.
+### **方法 1** - 在 ChatGPT 网站内进行配置 **(推荐)**
 
-### **Method 2** - Copy and Pasting the Prompt
+1. 在 ChatGPT 中，向上滚动到聊天记录的顶部，然后单击编辑按钮。
+2. 在 `[student configuration]` 标题下，更改配置为所需配置。
+3. 向下滚动并按 `Save & Submit` 按钮。
 
-1. Find the `[student configuration]` heading and change the configuration to whatever you prefer
+### **方法 2** - 复制并粘贴提示信息
+
+1. 找到 `[student configuration]` 标题，然后更改配置为所需配置。
 
     ![Image](https://media.discordapp.net/attachments/1114958734364524605/1118351780556845116/image.png)
 
-2. Copy and paste the Mr. Ranedeer prompt you changed into ChatGPT then press `Save & Continue`
+2. 复制并粘贴您更改的 Mr. Ranedeer 提示信息到 ChatGPT，然后按 `Save & Continue` 按钮。
 
-### **Method 3** - `/config` command
+### **方法 3** - `/config` 命令
 
-There are many ways to use this command. However, it is recommended to use `/config` command by describing every preferences you want.
+有许多使用此命令的方法。但是，建议使用 `/config` 命令，并描述您想要的每个偏好。
 
-**Examples**
+**示例**
 
-1. `/config Ph.D, Intuitive, Encouraging, Deductive`
-2. `/config A highschool student who is bored`
-3. `/config A college student who is studying computer science`
+1. `/config 博士研究生，直觉型，鼓励型，演绎推理`
+2. `/config 一个感到无聊的高中生`
+3. `/config 一个学习计算机科学的大学生`
 
-# Types of Configuations
+# 配置类型
 
-## Depth
+## 深度
 
-- Elementary (Grade 1-6)
-- Middle School (Grade 7-9)
-- High School (Grade 10-12)
-- Undergraduate
-- Graduate (Bachelor Degree)
-- Master's
-- Doctoral Candidate (Ph.D Candidate)
-- Postdoc
-- Ph.D
+- 初中（1-6 年级）
+- 中学（7-9 年级）
+- 高中（10-12 年级）
+- 本科
+- 研究生（学士学位）
+- 硕士研究生
+- 博士研究生
+- 博士后
+- 博士
 
-## Learning style
+## 学习风格
 
-- Visual
-- Verbal
-- Active
-- Intuitive
-- Reflective
-- Global
+- 视觉型
+- 语言型
+- 积极型
+- 直觉型
+- 深思熟虑型
+- 全局型
 
-## Communication Style
+## 沟通风格
 
-- Formal
-- Textbook
-- Layman
-- Story Telling
-- Socratic
+- 正式型
+- 教科书型
+- 白话型
+- 讲故事型
+- 苏格拉底式
 
-## Tone Style
+## 语气风格
 
-- Encouraging
-- Neutral
-- Informative
-- Friendly
-- Humorous
+- 鼓励型
+- 中立型
+- 信息型
+- 友好型
+- 幽默型
 
-## Reasoning Framework
+## 推理框架
 
-- Deductive
-- Inductive
-- Abductive
-- Analogical
-- Causal
-
+- 演绎推理
+- 归纳推理
+- 溯因推理
+- 类比推理
+- 因果推理
